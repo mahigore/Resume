@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="wkGss4Q9_2N8WHEaU2in">
     <mxGraphModel dx="1050" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dpGXQ4vbTMVXRQa9hrYv-1" value="&lt;div&gt;Overleaf&lt;/div&gt;JV&#39;s Resume Template&lt;div&gt;CODE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dpGXQ4vbTMVXRQa9hrYv-2" value="&lt;div&gt;Job description&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpGXQ4vbTMVXRQa9hrYv-3" value="&lt;div&gt;My resume details&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dpGXQ4vbTMVXRQa9hrYv-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dpGXQ4vbTMVXRQa9hrYv-5" value="ChatGPT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
